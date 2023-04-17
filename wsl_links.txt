@@ -1,0 +1,4 @@
+
+https://learn.microsoft.com/pt-br/windows/wsl
+https://ubuntu.com/wsl
+https://github.com/codeedu/wsl2-docker-quickstart
